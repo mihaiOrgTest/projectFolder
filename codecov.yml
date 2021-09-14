@@ -1,0 +1,29 @@
+codecov:
+  token: 15671265-c7d5-4ba6-9a5a-58d8fa52481e
+coverage:
+  status:
+    project:
+      d1:
+        target: auto
+        flags:
+          - d1
+      d2:
+        target: auto
+        flags:
+          - d2
+comment:
+  layout: "reach, diff, flags, files"
+  behavior: default
+  require_changes: false
+  require_base: yes
+  require_head: yes
+  branches: null
+flags:
+  d1:
+    paths:
+      - d1/coverage.txt
+    carryforward: true
+  d2:
+    paths:
+      - d2/coverage.txt
+    carryforward: true
