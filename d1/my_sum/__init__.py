@@ -6,3 +6,6 @@ def sum(arg):
 
 def plus(arg):
     return 0
+
+def minus(arg):
+    return 1
