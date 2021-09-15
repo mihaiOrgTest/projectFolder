@@ -9,3 +9,6 @@ def plus(arg):
 
 def minus(arg):
     return 1
+
+def bla(arg):
+    return 1
