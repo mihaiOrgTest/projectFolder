@@ -12,3 +12,6 @@ def minus(arg):
 
 def bla(arg):
     return 1
+
+def x():
+    return false
