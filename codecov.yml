@@ -4,7 +4,7 @@ coverage:
   status:
     project:
       d1:
-        target: 90%
+        target: auto
       d3:
         target: auto
 comment:
