@@ -5,10 +5,8 @@ coverage:
     project:
       d1:
         target: auto
-      d2:
-        target: auto
       d3:
-	target: auto
+        target: auto
 comment:
   layout: "reach, diff, flags, files"
   behavior: default
